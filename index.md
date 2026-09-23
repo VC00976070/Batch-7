@@ -1,0 +1,1 @@
+Welcome the the Zoom installation guide. To know more about the user guide, [click here](/zoom-installation-guide.md).
